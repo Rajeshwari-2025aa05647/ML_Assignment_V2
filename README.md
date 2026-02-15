@@ -1,5 +1,3 @@
-# ML_Assignment_V2
-repository for ML assignment
 # ML Assignment 2 – Classification Models Deployment
 
 ## a. Problem Statement
